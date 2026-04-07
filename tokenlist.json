@@ -1,0 +1,21 @@
+{
+  "name": "CNX Token List",
+  "logoURI": "https://raw.githubusercontent.com/sriinfra2025-ops/COINX/main/COINX.png",
+  "keywords": ["cnx", "coinx"],
+  "timestamp": "2026-04-07T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 137,
+      "address": "0xbcdDDa0cae4e751833c8529DD8591C2E2e4d9F26",
+      "name": "CoinX",
+      "symbol": "CNX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sriinfra2025-ops/COINX/main/COINX.png"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
